@@ -1,0 +1,15 @@
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\Mango.exe.config
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\Mango.exe
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\Mango.pdb
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\obj\Debug\Mango.csprojResolveAssemblyReference.cache
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\obj\Debug\Mango.exe
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\obj\Debug\Mango.pdb
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\nunit.framework.dll
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\nunit.framework.xml
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\NUnit3.TestAdapter.dll
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\nunit.engine.dll
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\nunit.engine.api.dll
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\Mono.Cecil.dll
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\Mono.Cecil.Pdb.dll
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\Mono.Cecil.Mdb.dll
+c:\users\mario.manderachia\documents\visual studio 2017\Projects\Mango\Mango\bin\Debug\Mono.Cecil.Rocks.dll
